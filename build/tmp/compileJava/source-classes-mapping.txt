@@ -1,0 +1,2 @@
+com/test/Main.java
+ com.test.Main
